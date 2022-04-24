@@ -1,6 +1,5 @@
 # UD12DiagramasER
 
-<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973112-70452e12-d5a2-4cd0-867a-b7032db7d2b9.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973124-1d37b0d0-84e6-4675-94a2-44e5d4413a43.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973130-18317d8e-5423-4372-82e9-9f9546bbf7e5.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/19403472/164485415-3574c1ba-195f-48d0-833a-3e3999a8588f.png">
