@@ -10,6 +10,62 @@
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973141-ab146c68-2a3d-4d03-9ed6-afbda753e147.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164996345-dde9afac-3577-4486-a506-4dac78c8dbf4.png">
 
+/*Valores categoria*/</br>
+CREATE TABLE categoria(</br>
+id_categoria int AUTO_INCREMENT PRIMARY KEY,</br>
+nombre varchar(20) NOT NULL,</br>
+descripcion mediumtext NULL</br>
+);</br>
+
+/*Valores receta*/</br>
+CREATE TABLE receta(</br>
+id_receta int AUTO_INCREMENT PRIMARY KEY,</br>
+nombre varchar(20) NOT NULL,</br>
+tiempototal int NOT NULL</br>
+);</br>
+
+/*Valores plato*/</br>
+CREATE TABLE plato(</br>
+id_plato int AUTO_INCREMENT PRIMARY KEY,</br>
+descripcion mediumtext NULL,</br>
+precio int NULL,</br>
+id_categoria  int NOT NULL,</br>
+id_receta  int NOT NULL,</br>
+CONSTRAINT FK_categoria FOREIGN KEY (id_categoria)</br>
+REFERENCES categoria(id_categoria)</br>
+ON DELETE CASCADE ON UPDATE CASCADE,</br>
+CONSTRAINT FK_plato_receta FOREIGN KEY (id_receta)</br>
+REFERENCES receta(id_receta)</br>
+ON DELETE CASCADE ON UPDATE CASCADE</br>
+
+);
+
+/*Valores Ingredientes*/</br>
+CREATE TABLE ingredientes(</br>
+id_ingrediente int AUTO_INCREMENT PRIMARY KEY,</br>
+nombre varchar(20) NOT NULL,</br>
+descripcion mediumtext NULL,</br>
+ummedidad int NULL,</br>
+calorias int NULL,</br>
+stock int NULL</br>
+);</br>
+
+/*Valores Tiene tabla N-N*/</br>
+CREATE TABLE tiene(</br>
+	id_tiene int NOT NULL AUTO_INCREMENT PRIMARY KEY,</br>
+    id_receta int NOT NULL,</br>
+	id_ingrediente int NOT NULL,</br>
+	CONSTRAINT FK_recetaa FOREIGN KEY (id_receta)</br>
+    REFERENCES receta(id_receta)</br>
+    ON DELETE CASCADE ON UPDATE CASCADE,</br>
+    CONSTRAINT FK_ingredientee FOREIGN KEY (id_ingrediente)</br>
+    REFERENCES ingredientes(id_ingrediente)</br>
+    ON DELETE CASCADE ON UPDATE CASCADE</br>
+);</br>
+
+
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/165063806-89f59c15-6498-4cad-be0e-7f160d050736.png">
+
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973148-418a8c3a-0910-449f-83f6-c500deee99f0.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164995746-a1455d1f-7987-4758-8e1b-15bf6325ba9e.png">
 
