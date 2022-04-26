@@ -77,7 +77,9 @@ CREATE TABLE tiene(</br>
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973189-829da80c-85f5-4382-ad08-5d075ff2da81.png">
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973455-f4e22ccd-400c-44c1-8140-a4f630fbfef6.jpeg">
-<img width="405" alt="image" src="https://user-images.githubusercontent.com/99056015/164974408-234b6364-5299-4eff-be62-8352d43b7799.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164974408-234b6364-5299-4eff-be62-8352d43b7799.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/165313372-d92c82a2-a90c-4b73-893c-b7f0469390f3.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/165313403-0e8dcaa3-ada7-48dc-8572-49cf167b5fb7.png">
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973197-f0753498-9819-4a90-95b8-6e740347199b.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164974389-44c7e9ae-e90d-44b1-84b4-ef8f9a30e2b7.jpeg">
