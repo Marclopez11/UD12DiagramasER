@@ -97,7 +97,12 @@ CREATE TABLE tiene(</br>
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973232-4351f024-09e4-41e7-a46f-0292f48b153c.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973240-87b3c19c-6fcc-490e-ad15-2d30a4ed66f6.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/165389977-c16112d1-d782-44ce-8f75-21797be688e3.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/165390038-025aff0f-6d29-4e9e-bed2-4918f6020c6c.png">
+
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973244-d3e6da94-7985-4e13-9db1-27a37d4a953c.png">
+
+
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973252-ef9afd67-47c7-47de-922f-3cc097778f07.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973260-51d1af8a-794d-44a4-bb17-9e7b8848a66f.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973265-6349759d-d254-4938-832a-96d1dca0a7d9.png">
