@@ -112,4 +112,18 @@ CREATE TABLE tiene(</br>
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973260-51d1af8a-794d-44a4-bb17-9e7b8848a66f.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973265-6349759d-d254-4938-832a-96d1dca0a7d9.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973271-bb6667fd-2eba-4d18-bf11-350f573a9597.png">
-pillar de aixa
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/71872946/165282550-f0c2f4b5-5275-47fd-9f16-238242569b41.JPG"> IXA*
+
+
+### Modelo relacional
+
+Cliente (**"DNI"**, Nombre, Apellidos, CP, Móvil, Fijo)</br>
+Vendedor (**"DNI"** (FK Cliente), Nombre (FK Cliente), Apellidos (FK Cliente), CP (FK Cliente), Móvil (FK Cliente), Fijo (FK Cliente))</br>
+Comprar (**"CódigoCompra"**, FechaCompra, ValorCompra)</br>
+Alquilar (**"CódigoAlquiler"**, FechaPago, Valor)</br>
+Inmueble (**"CódigoInmueble"**, Dirección, Descripción, m2)</br>
+Inmobiliaria (**"ID"**)</br>
+Anunciar (**"CódigoInmueble (FK Inmueble), ID_Inmobiliaria (FK Inmobiliaria)"**)</br>
+Piso (**"CódigoPiso"**)</br>
+Local (**"ID_Local"**, Uso, Servicio)</br>
+Garaje (**"NumGaraje"**, Planta)</br>
