@@ -116,6 +116,8 @@ CREATE TABLE tiene(</br>
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973260-51d1af8a-794d-44a4-bb17-9e7b8848a66f.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973265-6349759d-d254-4938-832a-96d1dca0a7d9.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/165630296-24267701-fcb5-445e-a668-71e35a62fef3.png">
+
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973271-bb6667fd-2eba-4d18-bf11-350f573a9597.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/71872946/165282550-f0c2f4b5-5275-47fd-9f16-238242569b41.JPG"> IXA*
 
