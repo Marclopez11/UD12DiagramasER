@@ -104,6 +104,11 @@ CREATE TABLE tiene(</br>
 
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973252-ef9afd67-47c7-47de-922f-3cc097778f07.png">
+
+
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/165559889-c098eac6-3652-4739-90ba-96e2a3d9f84c.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/165559941-a43dbfdd-1a83-4aaf-9c15-ad2a9c9e36da.png">
+
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973260-51d1af8a-794d-44a4-bb17-9e7b8848a66f.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973265-6349759d-d254-4938-832a-96d1dca0a7d9.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973271-bb6667fd-2eba-4d18-bf11-350f573a9597.png">
