@@ -1,6 +1,7 @@
 # UD12DiagramasER
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973124-1d37b0d0-84e6-4675-94a2-44e5d4413a43.png">
+<img width="428" alt="image" src="https://media.discordapp.net/attachments/961528607820349500/968994369833156698/unknown.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/99056015/164973130-18317d8e-5423-4372-82e9-9f9546bbf7e5.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/19403472/164485415-3574c1ba-195f-48d0-833a-3e3999a8588f.png">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/19403472/164485405-f1fb76df-5593-424b-8e8a-1c1105b0e931.png">
